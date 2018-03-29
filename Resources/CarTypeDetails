@@ -1,0 +1,5 @@
+TaxBand1=fuelCost,0.10,roadTax=150
+TaxBand2=fuelCost,0.115,roadTax=250
+TaxBand3=fuelCost,0.135,roadTax=350
+TaxBand4=fuelCost,0.14,roadTax=450
+TaxBand5=fuelCost,0.16,roadTax=500

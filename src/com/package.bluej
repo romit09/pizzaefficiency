@@ -1,0 +1,26 @@
+#BlueJ package file
+objectbench.height=89
+objectbench.width=450
+package.divider.horizontal=0.5997375328083989
+package.divider.vertical=0.8004158004158004
+package.editor.height=378
+package.editor.width=652
+package.editor.x=11
+package.editor.y=11
+package.frame.height=600
+package.frame.width=800
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+readme.height=58
+readme.name=@README
+readme.width=47
+readme.x=10
+readme.y=10
+target1.height=62
+target1.name=myefficiencyapp
+target1.type=PackageTarget
+target1.width=130
+target1.x=10
+target1.y=90
